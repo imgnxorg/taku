@@ -1,0 +1,1 @@
+Move WebView to localhost and initialize CLI with OpenAI
